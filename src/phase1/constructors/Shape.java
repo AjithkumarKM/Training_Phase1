@@ -28,7 +28,6 @@ public class Shape {
 		radius = r;
 	}
 	
-	
 	void square(){
 		System.out.println("Area os square is : " + (side * side));
 	}
@@ -48,7 +47,6 @@ public class Shape {
 	void otherShapes(int a){
 		System.out.println("Area of triangle is : " + (0.5*base*height));
 	}
-	
 	
 	public static void main(String args[]){
 		Shape s1 = new Shape(4);
