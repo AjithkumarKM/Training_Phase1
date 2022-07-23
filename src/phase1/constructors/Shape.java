@@ -1,4 +1,4 @@
-package training_phase1;
+package phase1.constructors;
 
 public class Shape {
 
